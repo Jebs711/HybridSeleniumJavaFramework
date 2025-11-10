@@ -1,0 +1,8 @@
+{
+  "username": "testuser",
+  "password": "password123",
+  "items": [
+    {"name": "item1", "price": 10.99},
+    {"name": "item2", "price": 20.50}
+  ]
+}
